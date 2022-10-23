@@ -1,31 +1,18 @@
-/* #header-navigation-wrapper {
-    opacity: 0.8;
+/* Style the header */
+.header {
+    padding: 10px 16px;
+    background: #ffffff;
+    color: #24292e;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
     position: fixed;
-    width: 100%;
     top: 0;
-    margin: 0vh auto 0vh auto;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-    -moz-box-orient: horizontal;
-    -moz-box-direction: normal;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -moz-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -moz-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    height: var(--header-height);
-    z-index: 1;
-} */
+    width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky+.content {
+    padding-top: 102px;
+}

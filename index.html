@@ -41,6 +41,23 @@
 
 <body>
 
+    <div class="header" id="floatingHeader">
+        <a href="/Rockroyal.github.io/">Home</a> <a href="/Rockroyal.github.io/art.html">Art</a> <a
+            href="/Rockroyal.github.io/projects.html">Projects</a>
+    </div>
+    <script>
+        window.onscroll = function () {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("floatingHeader").style.top = "0";
+            } else {
+                document.getElementById("floatingHeader").style.top = "-50px";
+            }
+        }
+    </script>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
@@ -71,8 +88,6 @@
 
 
         <footer class="site-footer">
-            <a href="/Rockroyal.github.io/">Home</a> <a href="/Rockroyal.github.io/art.html">Art</a> <a
-                href="/Rockroyal.github.io/projects.html">Projects</a>
             <span class="site-footer-owner"><a
                     href="https://github.com/Rockroyal305/Rockroyal.github.io">Rockroyal.github.io</a> is maintained by
                 <a href="https://github.com/Rockroyal305">Mihir Kotbagi</a>.</span>
