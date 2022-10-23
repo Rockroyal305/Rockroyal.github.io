@@ -46,15 +46,33 @@
             href="/Rockroyal.github.io/projects.html">Projects</a>
     </div>
     <script>
-        window.onscroll = function () {
-            scrollFunction()
-        };
+        // window.onscroll = function () {
 
-        function scrollFunction() {
-            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                document.getElementById("floatingHeader").style.top = "0";
+        //     scrollFunction()
+        // };
+
+        // function scrollFunction() {
+        //     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        //         document.getElementById("floatingHeader").style.top = "0";
+        //     } else {
+        //         document.getElementById("floatingHeader").style.top = "-50px";
+        //     }
+        // }
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function () { myFunction() };
+
+        // Get the header
+        var header = document.getElementById("myHeader");
+
+        // Get the offset position of the navbar
+        var sticky = header.offsetTop;
+
+        // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("sticky");
             } else {
-                document.getElementById("floatingHeader").style.top = "-50px";
+                header.classList.remove("sticky");
             }
         }
     </script>
