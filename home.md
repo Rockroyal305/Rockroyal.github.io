@@ -1,5 +1,5 @@
 # **About Me:**
-> I am a freshman at The Harker School. I am interested in researching the connections between Chess, AI, Neurology, and Psychology. 
+> I am a freshman at The Harker School, and I am interested in researching the connections between Chess, AI, Neurology, and Psychology. 
 
 ---
 
