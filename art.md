@@ -1,3 +1,5 @@
 # Lego:
 
+![Chess Pawn]()
+
 # Origami:
