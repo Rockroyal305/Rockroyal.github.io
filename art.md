@@ -16,26 +16,33 @@
 
 > The beauty of origami is in transforming a 2d sheet of paper into a 3d object, whether it's an animal, plane, geometic object, or anything in between.
 
-![Origami](Source%20Files/Origami/OrigamiWave.png)
-![Origami](Source%20Files/Origami/OrigamiWave2.png)
+---
 
 > These are some simple origami tesselated waves that I've made.
 
+![Origami](Source%20Files/Origami/OrigamiWave.png)
+![Origami](Source%20Files/Origami/OrigamiWave2.png)
+
 ---
+
+> These origami stars are comprised of multiple triangular spikes that are folded together.
 
 ![Origami](Source%20Files/Origami/OrigamiStar.png)
 ![Origami](Source%20Files/Origami/OrigamiStar2.png)
 
-> These origami stars are comprised of multiple triangular spikes that are folded together.
-
 ---
+
+> Some non-platonic solids can also be made with origami, like this 30 sided ball.
+
 
 ![Origami](Source%20Files/Origami/OrigamiSphere.png)
 ![Origami](Source%20Files/Origami/OrigamiSphere2.png)
 
-> Some non-platonic solids can also be made with origami, like this 30 sided figure.
+---
+
+> One of the coolest shapes you can make is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes.
 
 ![Origami](Source%20Files/Origami/OrigamiHyperbolicParabaloid.png)
 ![Origami](Source%20Files/Origami/OrigamiHyperbolicParabaloid2.png)
 
-> One of the coolest shapes you can make is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes.
+---
