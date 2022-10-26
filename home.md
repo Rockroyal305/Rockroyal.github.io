@@ -18,3 +18,5 @@
 
 # Neurology:
 > Chess got me thinking about decision making, both conscious and unconscious under various states of pressure and preparedenness. It also made me think about perception and its limits. I have been intrigued by how the human brain creates pathways for learning and decision making. Perception and objective reality and their role in decision making was also something that was probably triggeerd in  equal parts by ny my interest in chess  and my lack of interest in eating broccoli. My being a foodie got me thinking about whether the brain could be tricked into believing I was eating ice-cream when the object in my hand was actually a broccoli floret.  If I crack the brain-taste connection, this may help picky eaters, may make it easy for unpalatable medications to be taken more easily.
+
+---
