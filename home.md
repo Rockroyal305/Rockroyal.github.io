@@ -9,9 +9,7 @@
 ---
 
 # Programming & AI:
-> To me, programming is the joy of creating. Last year, I was thinking about AI's power to not just infer, but also to create, which led to my project, ArtI, which leverages various APIs and a Gaussian Diffusion model to create art from audio and/or text. Bringing the saying "A picture is worth a thousand words" was a fun and fulfilling experience.
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRz2cqeF9WmZgbm9YWrUIa-mRcrLhHbm6jZXI6uiRI0E-jtML5swaIbGqhAyLPPAlzM24l1OEZRPaWB/pub?embedded=true"></iframe>
+> To me, programming is the joy of creating. Last year, I was thinking about AI's power to not just infer, but also to create, which led to my project, [ArtI](https://docs.google.com/document/d/e/2PACX-1vRz2cqeF9WmZgbm9YWrUIa-mRcrLhHbm6jZXI6uiRI0E-jtML5swaIbGqhAyLPPAlzM24l1OEZRPaWB/pub), which leverages various APIs and a Gaussian Diffusion model to create art from audio and/or text. Bringing the saying "A picture is worth a thousand words" was a fun and fulfilling experience.
 
 ## Robotics:
 > Robotics has given the opportunity to transfer my software skills to the real world. This year, I am on the robotics team at my school and I am excited to see my code actually running on our bot.
