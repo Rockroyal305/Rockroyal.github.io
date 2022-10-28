@@ -21,11 +21,11 @@
 
 ---
 
-### **Art & Design**:
+# **Art & Design**:
 
-#### Lego Concepts:
+## Lego Concepts:
 
-##### I enjoy coming up with potential product ideas and submitting them to Lego Ideas for consideration.
+### I enjoy coming up with potential product ideas and submitting them to Lego Ideas for consideration.
 
 > I love Legos,  chess and video games. My design is intended to show the evolution of chess, from being a classical board game played with pieces of wood, ivory or marble to a dynamic, blitz style e-sport  played online with clicks in rapid succession. The seemingly humble but always classic Lego brick is at the heart of my idea just as the seemingly powerless pawn can make or break chess strategies. My design is both a tribute to the game of chess, which I love and an ode to the amazing versatility of Legos. If you like my idea, you can take a look [here](https://ideas.lego.com/projects/f7806f32-c5f6-4e89-801f-a35996a0881c).
 
@@ -39,7 +39,7 @@
 
 ---
 
-#### Origami Creations:
+## Origami Creations:
 
 > From a flat square sheet of paper to an animal, plane, car, or anything imaginable, the magic and beauty of origami is in transforming a 2d shape into a 3d object.
 
