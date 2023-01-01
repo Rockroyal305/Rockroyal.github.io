@@ -55,53 +55,6 @@
         <a href="art.html" class="btn">Art</a>
     </header>
 
-    <pre><code class="language-mermaid">graph LR
-    A--&gt;B
-    </code></pre>
-    
-    <div class="mermaid">
-        flowchart RL;
-        M(Math) --> C(Chess)
-        M <--> P(Programming)
-            C <--> P
-                C & P --> G(Games)
-                B(Books)
-                A(Art) --> B
-                A --> B
-                E(Economics) <--> M & G
-                    B --> C
-                    E --> B
-                    A & M & G --> L(Lego)
-                    L --> P
-                    H(Hardware) --> L & G
-                    H <--> P
-                        B --> H
-                        C <--> N(Neuroscience)
-                            G <--> N
-                                E --> N
-                                O(Origami) --> A
-                                O --> M & B & H
-                                O <--> M
-                                    click A "https://rockroyal305.github.io/Rockroyal.github.io/art.html"
-                                    click C "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess"
-                                    click L "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts"
-                                    click P "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai"
-                                    click N "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience"
-                                    click H "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics"
-                                    click O "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations"
-    </div>
-    <script>
-        var config = {
-            startOnLoad: true,
-            theme: 'forest',
-            flowchart: {
-                useMaxWidth: false,
-                htmlLabels: true
-            }
-        };
-        mermaid.initialize(config);
-        window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-    </script>
     <main id="content" class="main-content" role="main">
         <zero-md src="home.md"></zero-md>
 
