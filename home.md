@@ -1,6 +1,36 @@
 # **About Me:**
 > I am a freshman at The Harker School, and I am interested in researching the connections between Chess, AI, Neuroscience, and Psychology. 
-
+```mermaid
+  flowchart RL;
+    M(Math) --> C(Chess)
+    M <--> P(Programming)
+    C <--> P
+    C & P --> G(Games)
+    B(Books)
+    A(Art) --> B
+    A --> B
+    E(Economics) <--> M & G
+    B --> C
+    E --> B
+    A & M & G --> L(Lego)
+    L --> P
+    H(Hardware) --> L & G
+    H <--> P
+    B --> H
+    C <--> N(Neuroscience)
+    G <--> N
+    E --> N
+    O(Origami) --> A
+    O --> M & B & H
+    O <--> M
+    click A "https://rockroyal305.github.io/Rockroyal.github.io/art.html"
+    click C "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess"
+    click L "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts"
+    click P "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai"
+    click N "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience"
+    click H "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics"
+    click O "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations"
+```
 ---
 
 # Chess:
@@ -18,58 +48,5 @@
 
 # Neuroscience:
 > Chess got me thinking about decision making, both conscious and unconscious, under various states of pressure and preparedness. It also made me think about perception and its limits. I have been intrigued by how the human brain creates pathways for learning and decision making. Perception and objective reality and their role in decision making was also something that was probably triggered in equal parts by my interest in chess  and my lack of interest in eating broccoli. My being a foodie got me thinking about whether the brain could be tricked into believing I was eating ice-cream when I was actually holding a broccoli floret! Better understanding the connection between the brain and taste, this may help picky eaters, people who have lost their sense of taste, or those who have to take bitter medications.
-
----
-
-# **Art & Design**:
-
-## Lego Concepts:
-
-### I enjoy coming up with potential product ideas and submitting them to Lego Ideas for consideration.
-
-> I love Legos,  chess and video games. My design is intended to show the evolution of chess, from being a classical board game played with pieces of wood, ivory or marble to a dynamic, blitz style e-sport  played online with clicks in rapid succession. The seemingly humble but always classic Lego brick is at the heart of my idea just as the seemingly powerless pawn can make or break chess strategies. My design is both a tribute to the game of chess, which I love and an ode to the amazing versatility of Legos. If you like my idea, you can take a look [here](https://ideas.lego.com/projects/f7806f32-c5f6-4e89-801f-a35996a0881c).
-
----
-
-![Chess Pawn](Source%20Files/Lego/Pawn.jpg)
-![Chess Pawn](Source%20Files/Lego/HeadPawn.jpg)
-![Chess Pawn](Source%20Files/Lego/CloseupPawn.jpg)
-![Chess Pawn](Source%20Files/Lego/Headphones.jpg)
-![Chess Pawn](Source%20Files/Lego/Controller.jpg)
-
----
-
-## Origami Creations:
-
-> From a flat square sheet of paper to an animal, plane, car, or anything imaginable, the magic and beauty of origami is in transforming a 2d shape into a 3d object.
-
----
-
-> These are some simple origami tesselated waves that I've made.
-
-![Origami](Source%20Files/Origami/OrigamiWave.png)
-![Origami](Source%20Files/Origami/OrigamiWave2.png)
-
----
-
-> These origami stars are comprised of multiple triangular spikes that are folded together.
-
-![Origami](Source%20Files/Origami/OrigamiStar.png)
-![Origami](Source%20Files/Origami/OrigamiStar2.png)
-
----
-
-> Some non-platonic solids can also be made with origami, like this 30 sided ball.
-
-
-![Origami](Source%20Files/Origami/OrigamiSphere.png)
-![Origami](Source%20Files/Origami/OrigamiSphere2.png)
-
----
-
-> One of the coolest shapes you can make is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes.
-
-![Origami](Source%20Files/Origami/OrigamiHyperbolicParabaloid.png)
-![Origami](Source%20Files/Origami/OrigamiHyperbolicParabaloid2.png)
 
 ---
