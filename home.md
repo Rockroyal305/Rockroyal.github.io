@@ -1,7 +1,7 @@
 # **About Me:**
 > I am a freshman at The Harker School, and I am interested in researching the connections between Chess, AI, Neuroscience, and Psychology. 
 
-```mermaid
+<!-- ```mermaid
   flowchart RL;
     M(Math) --> C(Chess)
     M <--> P(Programming)
@@ -31,7 +31,7 @@
     click N "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience"
     click H "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics"
     click O "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations"
-```
+``` -->
 ---
 
 # Chess:
