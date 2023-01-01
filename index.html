@@ -55,6 +55,25 @@
         <a href="art.html" class="btn">Art</a>
     </header>
 
+    <pre><code class="language-mermaid">graph LR
+    A--&gt;B
+    </code></pre>
+    
+    <div class="mermaid">graph LR
+        A--&gt;B
+    </div>
+    <script>
+        var config = {
+            startOnLoad: true,
+            theme: 'forest',
+            flowchart: {
+                useMaxWidth: false,
+                htmlLabels: true
+            }
+        };
+        mermaid.initialize(config);
+        window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+    </script>
     <main id="content" class="main-content" role="main">
         <zero-md src="home.md"></zero-md>
 

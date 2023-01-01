@@ -1,5 +1,6 @@
 # **About Me:**
 > I am a freshman at The Harker School, and I am interested in researching the connections between Chess, AI, Neuroscience, and Psychology. 
+
 ```mermaid
   flowchart RL;
     M(Math) --> C(Chess)
