@@ -24,29 +24,38 @@
 
 > These are some simple origami tesselated waves that I've made.
 
-![Origami](Source%20Files/Origami/OrigamiWave.png)
-![Origami](Source%20Files/Origami/OrigamiWave2.png)
+![Origami](Source%20Files/Origami/Wave.png)
+![Origami](Source%20Files/Origami/Wave2.png)
 
 ---
 
 > These origami stars are comprised of multiple triangular spikes that are folded together.
 
-![Origami](Source%20Files/Origami/OrigamiStar.png)
-![Origami](Source%20Files/Origami/OrigamiStar2.png)
+![Origami](Source%20Files/Origami/Star.png)
+![Origami](Source%20Files/Origami/Star2.png)
 
 ---
 
 > Some non-platonic solids can also be made with origami, like this 30 sided ball.
 
-
-![Origami](Source%20Files/Origami/OrigamiSphere.png)
-![Origami](Source%20Files/Origami/OrigamiSphere2.png)
+![Origami](Source%20Files/Origami/Sphere.png)
+![Origami](Source%20Files/Origami/Sphere2.png)
 
 ---
 
+> This is a wireframe icosahedron made with 30 units.
+
+![Origami](Source%20Files/Origami/Icosahedron.png)
+![Origami](Source%20Files/Origami/Icosahedron2.png)
+
 > One of the coolest shapes you can make is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes.
 
-![Origami](Source%20Files/Origami/OrigamiHyperbolicParabaloid.png)
-![Origami](Source%20Files/Origami/OrigamiHyperbolicParabaloid2.png)
+![Origami](Source%20Files/Origami/HyperbolicParabaloid.png)
+![Origami](Source%20Files/Origami/HyperbolicParabaloid2.png)
+
+> I also made this design using a more intricate pattern of folds.
+
+![Origami](Source%20Files/Origami/BloomParabola.png)
+![Origami](Source%20Files/Origami/BloomParabola2.png)
 
 ---
