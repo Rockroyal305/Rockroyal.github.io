@@ -48,12 +48,10 @@
 ![Origami](Source%20Files/Origami/Icosahedron.png)
 ![Origami](Source%20Files/Origami/Icosahedron2.png)
 
-> One of the coolest shapes you can make is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes.
+> One of the coolest shapes you can make is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes. It represents the equation $z = \frac{x^2}{a^2} - \frac{y^2}{b^2}$.
 
 ![Origami](Source%20Files/Origami/HyperbolicParabaloid.png)
 ![Origami](Source%20Files/Origami/HyperbolicParabaloid2.png)
-
-> I also made this design using a more intricate pattern of folds.
 
 ![Origami](Source%20Files/Origami/BloomParabola.png)
 ![Origami](Source%20Files/Origami/BloomParabola2.png)
