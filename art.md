@@ -48,7 +48,7 @@
 ![Origami](Source%20Files/Origami/Icosahedron.png)
 ![Origami](Source%20Files/Origami/Icosahedron2.png)
 
-> One of the coolest shapes you can make is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes. It represents the equation $z = \frac{x^2}{a^2} - \frac{y^2}{b^2}$.
+> One of the coolest shapes I've made is a hyperbolic parabaloid, which is a shape that shows up in some graphs with 3 axes. It represents the equation z = x<sup>2</sup>/a<sup>2</sup> - y<sup>2</sup>/b<sup>2</sup> and is a saddle shaped surface.
 
 ![Origami](Source%20Files/Origami/HyperbolicParabaloid.png)
 ![Origami](Source%20Files/Origami/HyperbolicParabaloid2.png)
